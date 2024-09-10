@@ -41,3 +41,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roncodes13&show_icons=true&locale=en" alt="roncodes13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roncodes13&" alt="roncodes13" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=roncodes13&icon=6&color=11)](https://visitcount.itsvg.in)
