@@ -45,5 +45,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=roncodes13&icon=6&color=11)](https://visitcount.itsvg.in)
+
