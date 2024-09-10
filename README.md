@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roncodes13&label=Profile%20views&color=0e75b6&style=flat" alt="roncodes13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roncodes13" alt="roncodes13" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mouqueer13" target="blank"><img src="https://img.shields.io/twitter/follow/mouqueer13?logo=twitter&style=for-the-badge" alt="mouqueer13" /></a> </p>
-
 - 🔭 I’m currently working on [roncodes](https://roncodes-mouqueers-projects.vercel.app/)
 
 - 🌱 I’m currently learning **MERN Stack and Wordpress**
@@ -20,6 +16,12 @@
 - 📄 Know about my experiences [https://roncodes-mouqueers-projects.vercel.app/](https://roncodes-mouqueers-projects.vercel.app/)
 
 - ⚡ Fun fact **I think I am curious**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roncodes13" alt="roncodes13" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mouqueer13" target="blank"><img src="https://img.shields.io/twitter/follow/mouqueer13?logo=twitter&style=for-the-badge" alt="mouqueer13" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
