@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [roncodes](https://roncodes-mouqueers-projects.vercel.app/)
 
-- 🌱 I’m currently learning **MERN Stack and Wordpress**
+- 🌱 I’m currently learning **MERN Stack and App Development**
 
 - 👨‍💻 All of my projects are available at [https://roncodes-mouqueers-projects.vercel.app/](https://roncodes-mouqueers-projects.vercel.app/)
 
